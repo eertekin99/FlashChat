@@ -1,5 +1,7 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
+Creation of GoogleService-Info.plist is necessary. Create new Firebase project to do that.
+
 # Flash-Chat
 
 ## Our Goal
